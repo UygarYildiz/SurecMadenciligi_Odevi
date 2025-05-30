@@ -239,4 +239,4 @@ for case_id in cases:
 
 **🎓 Süreç Madenciliği Dersi Projesi**
 *Mini Süreç Madenciliği Uygulaması v1.0*
-*Geliştirilme Tarihi: 2024*
+*Geliştirilme Tarihi: 2025*
