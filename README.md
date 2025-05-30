@@ -120,28 +120,7 @@ python app.py
 http://localhost:5000
 ```
 
-### 🔧 Troubleshooting (Sorun Giderme)
 
-#### ❌ Port 5000 Kullanımda Hatası
-```bash
-# Farklı port kullanın
-python app.py --port 8080
-```
-
-#### ❌ Paket Yükleme Sorunları
-```bash
-# pip'i güncelleyin
-python -m pip install --upgrade pip
-# Cache temizleyin
-pip cache purge
-```
-
-#### ❌ CSV Yükleme Hatası
-- Dosya formatını kontrol edin (UTF-8 encoding)
-- Gerekli sütunların varlığını doğrulayın
-- Tarih formatının doğru olduğundan emin olun
-
-**✅ Not:** Uygulama başarıyla çalıştırıldı ve test edildi!
 
 ## 📊 Kullanım
 
