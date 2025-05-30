@@ -1,5 +1,7 @@
 # 🔍 Mini Süreç Madenciliği Uygulaması
 
+## Proje Github Linki https://github.com/UygarYildiz/SurecMadenciligi_Odevi
+
 Bu proje, süreç madenciliği dersi için geliştirilmiş **kapsamlı ve profesyonel** bir web uygulamasıdır. CSV formatındaki süreç verilerini analiz ederek çeşitli görselleştirmeler, istatistikler ve BPMN tarzı süreç akış diyagramları sunar.
 
 ## 📸 Ekran Görüntüleri
@@ -74,11 +76,6 @@ CSV dosyanızda şu sütunlar **mutlaka** bulunmalıdır:
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-### 📋 Sistem Gereksinimleri
-- **Python**: 3.8+ (önerilen 3.9+)
-- **İşletim Sistemi**: Windows, macOS, Linux
-- **RAM**: Minimum 512MB (1GB+ önerilen)
-- **Disk Alanı**: 100MB
 
 ### 🔧 Gerekli Python Paketleri
 ```txt
