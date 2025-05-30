@@ -12,14 +12,17 @@ Bu proje, süreç madenciliği dersi için geliştirilmiş **kapsamlı ve profes
 
 ### 📊 Analiz Sonuçları Dashboard
 ![Analiz Dashboard](screenshots/Dashboard.png)
+
 *Kapsamlı özet istatistikler ve case süre analizleri*
 
 ### 🔄 Süreç Akış Diyagramı
 ![Süreç Akış Diyagramı](screenshots/Diyagram.png)
+
 *Modern HTML/CSS tabanlı BPMN tarzı süreç akış diyagramı*
 
 ### Case Süreleri
 ![Grafikler](screenshots/Case.png)
+
 *Caselerin görüntülendiği tablo görünümü*
 
 ## 🚀 Özellikler
