@@ -5,20 +5,20 @@ Bu proje, süreç madenciliği dersi için geliştirilmiş **kapsamlı ve profes
 ## 📸 Ekran Görüntüleri
 
 ### 🏠 Ana Sayfa ve Veri Yükleme
-![Ana Sayfa](screenshots/ana-sayfa.png)
+![Ana Sayfa](screenshots/AnaSayfa.png)
 *Modern ve kullanıcı dostu arayüz ile drag & drop destekli dosya yükleme*
 
 ### 📊 Analiz Sonuçları Dashboard
-![Analiz Dashboard](screenshots/analiz-dashboard.png)
+![Analiz Dashboard](screenshots/Dashboard.png)
 *Kapsamlı özet istatistikler ve case süre analizleri*
 
 ### 🔄 Süreç Akış Diyagramı
-![Süreç Akış Diyagramı](screenshots/surec-akis-diagrami.png)
+![Süreç Akış Diyagramı](screenshots/Diyagram.png)
 *Modern HTML/CSS tabanlı BPMN tarzı süreç akış diyagramı*
 
-### 📈 İnteraktif Grafikler
-![Grafikler](screenshots/grafikler.png)
-*Plotly ile oluşturulmuş dinamik ve interaktif görselleştirmeler*
+### Case Süreleri
+![Grafikler](screenshots/Case.png)
+*Caselerin görüntülendiği tablo görünümü*
 
 ## 🚀 Özellikler
 
