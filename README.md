@@ -299,63 +299,9 @@ Herhangi bir sorun yaşarsanız:
 3. **🐍 Python Sürümünü Kontrol Edin**: `python --version` (3.8+ gerekli)
 4. **📦 Paket Sürümlerini Kontrol Edin**: `pip list`
 
-## 📈 Gelecek Geliştirmeler ve Roadmap
 
-### 🚀 Kısa Vadeli (v1.1)
-- [x] ✅ Modern HTML/CSS süreç diyagramı
-- [x] ✅ Performans optimizasyonu (99.9% boyut azaltması)
-- [ ] 📊 Excel dosyası desteği (.xlsx)
-- [ ] 🎨 Tema seçenekleri (Dark/Light mode)
-- [ ] 📱 Mobil optimizasyonu
 
-### 🎯 Orta Vadeli (v1.2)
-- [ ] 📈 Gelişmiş BPMN 2.0 diyagramları
-- [ ] 🔍 Süreç performans metrikleri (throughput, cycle time)
-- [ ] 🎛️ Veri filtreleme ve arama özellikleri
-- [ ] 📄 PDF/Excel rapor çıktısı
-- [ ] 🔄 Gerçek zamanlı veri akışı
 
-### 🌟 Uzun Vadeli (v2.0)
-- [ ] 🗄️ Veritabanı entegrasyonu (PostgreSQL, MySQL)
-- [ ] 🤖 Makine öğrenmesi ile süreç tahmini
-- [ ] 👥 Çoklu kullanıcı desteği
-- [ ] 🔐 Güvenlik ve yetkilendirme
-- [ ] ☁️ Cloud deployment desteği
-
-## 👨‍💻 Geliştirici Notları
-
-### 🎓 Eğitim Amaçlı Proje
-Bu uygulama **süreç madenciliği dersi** için geliştirilmiştir ve temel kavramları öğretmeyi hedefler:
-- Process Discovery (Süreç Keşfi)
-- Conformance Checking (Uygunluk Kontrolü)
-- Process Enhancement (Süreç İyileştirme)
-
-### 🏭 Üretim Ortamı İçin Notlar
-Gerçek üretim ortamında kullanım için ek gereksinimler:
-- **🔐 Güvenlik**: HTTPS, authentication, input validation
-- **⚡ Performans**: Caching, database optimization
-- **📊 Monitoring**: Logging, error tracking
-- **🔄 Scalability**: Load balancing, horizontal scaling
-
-### 🤝 Katkıda Bulunma
-Projeye katkıda bulunmak için:
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/yeni-ozellik`)
-3. Commit yapın (`git commit -am 'Yeni özellik eklendi'`)
-4. Push yapın (`git push origin feature/yeni-ozellik`)
-5. Pull Request oluşturun
-
----
-
-## 📊 Proje İstatistikleri
-
-- **📅 Geliştirme Süresi**: 2 hafta
-- **💻 Kod Satırı**: ~1,500 satır
-- **🎨 UI Bileşenleri**: 15+ interaktif element
-- **📈 Performans İyileştirmesi**: %99.9 boyut azaltması
-- **🧪 Test Edilen Veri**: 50 case, 314 aktivite
-
----
 
 **🎓 Süreç Madenciliği Dersi Projesi**
 *Mini Süreç Madenciliği Uygulaması v1.0*
